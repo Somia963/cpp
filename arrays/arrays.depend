@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1647508801 source:c:\users\rama2\desktop\c++\arrays\main.cpp
+	<cctype>
+	<algorithm>
+	<iostream>
+	<cmath>
+	<math.h>
+	<bits/stdc++.h>
+
